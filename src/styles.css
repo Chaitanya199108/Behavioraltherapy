@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Minimal styles and small helper for fade-in animations used in user code */
+html,body,#root { height: 100%; }
+body { margin: 0; font-family: Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; background: #fff; }
+.container { max-width: 1100px; margin: 0 auto; padding-left: 1rem; padding-right: 1rem }
+
+.animate-fade-in { animation: fadeIn .7s ease both }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(8px) } to { opacity: 1; transform: translateY(0) } }
