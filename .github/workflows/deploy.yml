@@ -5,6 +5,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write  # 👈 This line gives the bot permission to push to gh-pages
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
