@@ -117,7 +117,7 @@ const AboutUs = () => {
 
             <div className="relative">
               <img
-                src="https://images.unsplash.com/photo-1577896851231-70ef18881754?w=600&h=400&fit=crop"
+                src="https://media.istockphoto.com/id/1400106238/photo/child-psychotherapy.jpg?s=612x612&w=0&k=20&c=1dcvLgqg5ckxSNLQ2FT82o_yKRReS5C_Qy1aGF77h8Y="
                 alt="Children in therapy activities"
                 className="w-full h-96 object-cover rounded-2xl shadow-xl"
               />
