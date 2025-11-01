@@ -94,7 +94,7 @@ const Home = () => {
           <div className="relative">
             <div className="relative rounded-3xl overflow-hidden shadow-2xl transform rotate-3 hover:rotate-0 transition-transform duration-700">
               <img
-                src="https://media.istockphoto.com/id/858352780/photo/cheerful-boy-with-disability-at-rehabilitation-center-for-kids-with-special-needs.jpg?s=612x612&w=0&k=20&c=NOnLZJM5s3n5JDPy7jrU-cwzQMZx6AOmVPQ0mAzd6oI="
+                src="https://cstacademy.com/wp-content/uploads/2017/03/The-Power-of-Connection-Exploring-the-Benefits-of-Group-Activities-for-Children-with-Autism.jpg"
                 alt="Parents and therapist discussing child's progress"
                 className="w-full h-96 object-cover"
               />
